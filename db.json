@@ -1,8 +1,44 @@
 {
   "storesOverview": [
     {
-      "id": 999,
-      "title": "Ola"
+      "id": 1,
+      "name": "Maria",
+      "image": "https://www.rhportal.com.br/wp-content/uploads/shutterstock_1874708293.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Janaina",
+      "image": "https://www.tenda.com/eudouconta/wp-content/uploads/2021/09/Pessoa-fisica-mobile.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Luiza",
+      "image": "https://img.freepik.com/fotos-gratis/estilo-de-vida-beleza-e-moda-conceito-de-emocoes-de-pessoas-jovem-gerente-de-escritorio-feminino-asiatico-ceo-com-expressao-satisfeita-em-pe-sobre-um-fundo-branco-sorrindo-com-os-bracos-cruzados-sobre-o-peito_1258-59329.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Carlos",
+      "image": "https://st.depositphotos.com/2818715/5102/i/600/depositphotos_51026865-stock-photo-serious-and-pensive-isolated-young.jpg"
+    },
+    {
+      "id": 5,
+      "name": "André",
+      "image": "https://www.pessoaepessoa.com.br/wp-content/uploads/2020/09/Valton-Pessoa-868x1300.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Felipe",
+      "image": "https://www.vittude.com/blog/wp-content/uploads/otimismo-3.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Leandro",
+      "image": "https://i1.rgstatic.net/ii/profile.image/948347472977924-1603115065814_Q512/Edlley-Pessoa.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Daniel",
+      "image": "https://engenharia360.com/wp-content/uploads/2019/05/esta-pessoa-nao-existe-engenharia360-4.png"
     }
   ],
   "profile": {
