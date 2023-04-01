@@ -46,7 +46,37 @@
       "imageProfile": "https://www.rhportal.com.br/wp-content/uploads/shutterstock_1874708293.jpg",
       "nameProfile": "Maria",
       "title": "Aproveitando os dias de Verão!!",
-      "comment": "Nova coleção para os dias de Verão"
+      "comment": "Nova coleção para os dias de Verão",
+      "storeList": [
+        {
+          "id": "90",
+          "image": "https://i.pinimg.com/564x/16/c9/7c/16c97c100b4c4bd6105923680380b38b.jpg"
+        },
+        {
+          "id": "91",
+          "image": "https://i.pinimg.com/564x/16/c9/7c/16c97c100b4c4bd6105923680380b38b.jpg"
+        },
+        {
+          "id": "92",
+          "image": "https://i.pinimg.com/564x/16/c9/7c/16c97c100b4c4bd6105923680380b38b.jpg"
+        },
+        {
+          "id": "93",
+          "image": "https://i.pinimg.com/564x/16/c9/7c/16c97c100b4c4bd6105923680380b38b.jpg"
+        },
+        {
+          "id": "94",
+          "image": "https://i.pinimg.com/564x/16/c9/7c/16c97c100b4c4bd6105923680380b38b.jpg"
+        },
+        {
+          "id": "95",
+          "image": "https://i.pinimg.com/564x/16/c9/7c/16c97c100b4c4bd6105923680380b38b.jpg"
+        },
+        {
+          "id": "96",
+          "image": "https://i.pinimg.com/564x/16/c9/7c/16c97c100b4c4bd6105923680380b38b.jpg"
+        }
+      ]
     },
     {
       "imageProfile": "https://www.rhportal.com.br/wp-content/uploads/shutterstock_1874708293.jpg",
