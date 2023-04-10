@@ -209,6 +209,12 @@
     "numberFollowers": 10,
     "numberFollowing": 15 
   },
+  "moda_masculina": {
+    "name": "Sport Social",
+    "latitude": -23.529625677453318, 
+    "longitude": -46.714902749974115,
+    "andress": "R. Cerro Corá, 2305 - Alto da Lapa, São Paulo - SP, 05061-450",
+  },
   "profile": {
     "name": "typicode"
   }
